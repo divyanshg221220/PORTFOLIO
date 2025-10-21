@@ -23,6 +23,7 @@
   align-items: center;
 }
 head,body{
+  size: 22px;
   background-color: var(--white);
   color: var(--black);
   height: 100%;
